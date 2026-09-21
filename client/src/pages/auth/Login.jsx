@@ -47,7 +47,7 @@ export default function Login() {
             <Building2 className="h-8 w-8 text-primary" />
           </div>
           <h1 className="text-3xl font-bold">Employee Management</h1>
-          <p className="mt-2 text-white/60">Sign in to your portal</p>
+          <p className="mt-2 text-white/60">Sign in to the portal</p>
         </div>
 
         <div className="glass rounded-2xl p-8">
